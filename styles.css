@@ -1,0 +1,33 @@
+h1{
+  color:blue;
+  text-align:center;
+}
+div{
+  font-family: Comic, sans-serif;
+  font-weight: bold;
+  shape-image-threshold: circle();
+}
+#top{
+  font-size: 23px;
+  background-color: magenta;
+}
+
+#middle{
+  font-size: 25px;
+  background-color: teal;
+}
+th, td{
+  border: 1px;
+  border-color: black;
+  border : 1px solid black;
+  padding: 5px;
+
+}
+th{
+  background-color: lightgray;
+}
+table{
+  border : 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+}
